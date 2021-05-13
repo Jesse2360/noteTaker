@@ -18,5 +18,12 @@ app.get('/notes', (req, res) => {
 });
 
 //api routes
+app.get('/api/notes', (req, res) => {
+    res.json()
+});
+
+app.post('/api/notes', (req, res) => {
+    res.json()
+})
 
 app.listen(PORT, () => console.log(`noteTaker app is listening on PORT ${PORT}`));
