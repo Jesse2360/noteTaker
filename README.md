@@ -13,14 +13,24 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 
 # Table of Content
+- [Technologies](#Technologies)
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Contributing](#Contributing)
 - [Questions](#Questions)
 <br />
 
-# Links 
- * [Github]()
+![photo](https://drive.google.com/file/d/1gCMEE36f3oXvVZKMD-HEKQE4Fb89owGE/view)
+# Link Deployed At
+ * [Heroku](https://jessnotetaker.herokuapp.com/)
+* [video](https://drive.google.com/file/d/1gCMEE36f3oXvVZKMD-HEKQE4Fb89owGE/view)
+
+# Technologies
+* JavaScript
+ * Node.js
+ * Express.js
+ * UUID
+
 
 # Installation
  After you clone the repository, you have to run   ***npm install***   in your command line to download all the dependencies.
