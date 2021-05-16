@@ -32,7 +32,6 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
  * Express.js
  * UUID
 
-
 # Installation
  After you clone the repository, you have to run   ***npm install***   in your command line to download all the dependencies.
 <br />
