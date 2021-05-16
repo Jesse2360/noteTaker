@@ -21,6 +21,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 <br />
 
 ![photo](https://github.com/Jesse2360/noteTaker/blob/0f69732ed8896cc1ff26549a14bdba1cc9e89655/images/Screen%20Shot%202021-05-15%20at%207.22.31%20PM.png)
+![photo](https://github.com/Jesse2360/noteTaker/blob/0fa68fbb9591b30abbe5932eb4f253a04dca6fe2/images/Screen%20Shot%202021-05-15%20at%207.24.31%20PM.png)
 
 # Link Deployed At
  * [Heroku](https://jessnotetaker.herokuapp.com/)
